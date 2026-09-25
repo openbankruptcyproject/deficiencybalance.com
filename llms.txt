@@ -1,24 +1,77 @@
-# Deficiency Balance After Repo or Foreclosure [2026] - Deficiencybalance
-> Last updated: 2026-05-01
+# Deficiency Balance After Repo or Foreclosure [2026]
+> Last updated: 2026-09-25
 
-> Owe a deficiency balance after repossession or foreclosure? Learn your options: negotiate, dispute, or discharge in bankruptcy. 2026 g...
+> Deficiency balance after auto repossession or foreclosure: deficiency balance car loan rules, how long do you have to pay a deficiency balance
 
 ## About
 deficiencybalance.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- State Anti-Deficiency Laws - Where Lenders Cannot Pursue You - Deficiencybalance: https://deficiencybalance.com/anti-deficiency-laws.html
-- Auto Repossession Deficiency - What You Owe After Repo - Deficiencybalance: https://deficiencybalance.com/auto-repo-deficiency.html
-- Bankruptcy and Deficiency Balances - Complete Elimination - Deficiencybalance: https://deficiencybalance.com/bankruptcy-and-deficiency.html
-- Deficiency Balance Credit Impact - How It Affects Your Score - Deficiencybalance: https://deficiencybalance.com/credit-impact-deficiency.html
-- Deficiency Balance Laws by State - State-Specific Rules [2026] - Deficiencybalance: https://deficiencybalance.com/deficiency-balance-laws-by-state.html
-- Deficiency Judgment - From Lawsuit to Wage Garnishment - Deficiencybalance: https://deficiencybalance.com/deficiency-judgment.html
-- Foreclosure Deficiency Balance - Can They Come After You? - Deficiencybalance: https://deficiencybalance.com/foreclosure-deficiency.html
-- Deficiency Balance After Repo or Foreclosure [2026] - Deficiencybalance: https://deficiencybalance.com/
-- Negotiating a Deficiency Balance - Settlement Strategies - Deficiencybalance: https://deficiencybalance.com/negotiating-deficiency.html
-- Right to Cure Before Deficiency - Preventing the Balance - Deficiencybalance: https://deficiencybalance.com/right-to-cure-deficiency.html
+- State Anti-Deficiency Laws [2026]: AZ, CA, OR, WA, and Where Lenders Cannot Pursue Borrowers: https://deficiencybalance.com/anti-deficiency-laws.html
+- Auto Repossession Deficiency [2026]: UCC 9-615 Sale Proceeds and Commercially Reasonable Standard: https://deficiencybalance.com/auto-repo-deficiency.html
+- Bankruptcy and Deficiency Balances [2026]: 11 USC 727 Full Discharge of Mortgage and Auto Deficiencies: https://deficiencybalance.com/bankruptcy-and-deficiency.html
+- Deficiency Balance Credit Impact [2026]: 7-Year FCRA Reporting and FICO Score Penalty: https://deficiencybalance.com/credit-impact-deficiency.html
+- Deficiency Balance Laws by State - State-Specific Rules: https://deficiencybalance.com/deficiency-balance-laws-by-state.html
+- Deficiency Judgment [2026]: From Lawsuit to Wage Garnishment Under State and Federal Law: https://deficiencybalance.com/deficiency-judgment.html
+- Foreclosure Deficiency [2026]: Judicial vs Non-Judicial Sale and Fair-Market-Value Limits: https://deficiencybalance.com/foreclosure-deficiency.html
+- Deficiency Balance After Repo or Foreclosure: https://deficiencybalance.com/
+- Negotiating Deficiency Balance [2026]: 10-30% Settlement Range and 1099-C Tax Treatment: https://deficiencybalance.com/negotiating-deficiency.html
+- Right to Cure Before Deficiency [2026]: State Pre-Repo Notice and Mortgage Cure Periods: https://deficiencybalance.com/right-to-cure-deficiency.html
 - Statute of Limitations on Deficiency Balances - How Long Creditors Have to Sue - Deficiencybalance: https://deficiencybalance.com/statute-of-limitations-deficiency.html
 - Privacy Policy: https://deficiencybalance.com/privacy.html
+- About deficiencybalance.com: https://deficiencybalance.com/about.html
+- Deficiency Balance Laws in Alabama [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/alabama.html
+- Deficiency Balance Laws in Alaska [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/alaska.html
+- Deficiency Balance Laws in Arizona [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/arizona.html
+- Deficiency Balance Laws in Arkansas [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/arkansas.html
+- Deficiency Balance Laws in California [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/california.html
+- Deficiency Balance Laws in Colorado [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/colorado.html
+- Deficiency Balance Laws in Connecticut [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/connecticut.html
+- Deficiency Balance Laws in Delaware [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/delaware.html
+- Deficiency Balance Laws in District of Columbia [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/district-of-columbia.html
+- Deficiency Balance Laws in Florida [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/florida.html
+- Deficiency Balance Laws in Georgia [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/georgia.html
+- Deficiency Balance Laws in Hawaii [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/hawaii.html
+- Deficiency Balance Laws in Idaho [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/idaho.html
+- Deficiency Balance Laws in Illinois [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/illinois.html
+- Deficiency Balance Laws by State: https://deficiencybalance.com/states/
+- Deficiency Balance Laws in Indiana [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/indiana.html
+- Deficiency Balance Laws in Iowa [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/iowa.html
+- Deficiency Balance Laws in Kansas [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/kansas.html
+- Deficiency Balance Laws in Kentucky [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/kentucky.html
+- Deficiency Balance Laws in Louisiana [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/louisiana.html
+- Deficiency Balance Laws in Maine [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/maine.html
+- Deficiency Balance Laws in Maryland [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/maryland.html
+- Deficiency Balance Laws in Massachusetts [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/massachusetts.html
+- Deficiency Balance Laws in Michigan [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/michigan.html
+- Deficiency Balance Laws in Minnesota [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/minnesota.html
+- Deficiency Balance Laws in Mississippi [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/mississippi.html
+- Deficiency Balance Laws in Missouri [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/missouri.html
+- Deficiency Balance Laws in Montana [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/montana.html
+- Deficiency Balance Laws in Nebraska [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/nebraska.html
+- Deficiency Balance Laws in Nevada [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/nevada.html
+- Deficiency Balance Laws in New Hampshire [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/new-hampshire.html
+- Deficiency Balance Laws in New Jersey [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/new-jersey.html
+- Deficiency Balance Laws in New Mexico [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/new-mexico.html
+- Deficiency Balance Laws in New York [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/new-york.html
+- Deficiency Balance Laws in North Carolina [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/north-carolina.html
+- Deficiency Balance Laws in North Dakota [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/north-dakota.html
+- Deficiency Balance Laws in Ohio [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/ohio.html
+- Deficiency Balance Laws in Oklahoma [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/oklahoma.html
+- Deficiency Balance Laws in Oregon [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/oregon.html
+- Deficiency Balance Laws in Pennsylvania [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/pennsylvania.html
+- Deficiency Balance Laws in Rhode Island [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/rhode-island.html
+- Deficiency Balance Laws in South Carolina [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/south-carolina.html
+- Deficiency Balance Laws in South Dakota [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/south-dakota.html
+- Deficiency Balance Laws in Tennessee [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/tennessee.html
+- Deficiency Balance Laws in Texas [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/texas.html
+- Deficiency Balance Laws in Utah [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/utah.html
+- Deficiency Balance Laws in Vermont [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/vermont.html
+- Deficiency Balance Laws in Virginia [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/virginia.html
+- Deficiency Balance Laws in Washington [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/washington.html
+- Deficiency Balance Laws in West Virginia [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/west-virginia.html
+- Deficiency Balance Laws in Wisconsin [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/wisconsin.html
+- Deficiency Balance Laws in Wyoming [2026]: Mortgage, Auto, and Statute of Limitations: https://deficiencybalance.com/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
